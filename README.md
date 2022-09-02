@@ -7,5 +7,6 @@ prints it and ends work. **Server works contiunously waitng for the clients.**
 Client enters a signle integer using standard input, whereas server computes simple arthmetic function $x^3$.
 
 ## remarks
+* run programs in separate terminals
 * add _-lm_ when compiling server program
 * run server program first
